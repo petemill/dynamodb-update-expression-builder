@@ -1,0 +1,15 @@
+{
+  "name": "dynamodb-update-expression-builder",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/petemill/dynamodb-update-expression-builder.git"
+  },
+  "description": "Creates params needed for a dynamodb updateItem call dynamically",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
