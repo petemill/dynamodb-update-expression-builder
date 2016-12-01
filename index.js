@@ -1,3 +1,5 @@
+"use strict";
+
 const emptyListValue = {L: []};
 const emptyListKey = ':zz_empty_list';
 
